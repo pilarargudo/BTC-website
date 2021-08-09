@@ -29,6 +29,7 @@
   <li>
     <p>Clonar desde Github: <code class="highlighter-rouge">git clone https://github.com/pilarargudo/BTC-website.git</code></p>
   </li>
+  <li>Iniciar el proyecto con Live Server</li>
 </ul>
 
 
