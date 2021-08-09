@@ -1,4 +1,4 @@
-<h1 id="argon-design-system"><a href="https://www.creative-tim.com/product/argon-design-system">Argon Design System</a></h1>
+<h1>BTC Frontend Angular Online - Reto 1 Website</h1>
 
 
 <p>Reto del BTC Frontend Angular Online en el que poner el práctica HTML5, CSS3, CSS Layout (Flexy Grid) y GIT mediante un website personal.</p>
